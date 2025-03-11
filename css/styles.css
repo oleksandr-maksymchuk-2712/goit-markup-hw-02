@@ -52,11 +52,11 @@ color: #2E2F42;
 .nav:hover, .nav:focus{
     color: #404bbf;
 }
-.section-1 {
+.section-one {
     background-color: #2E2F42;
 
 }
-.title-s1{
+.title{
     font-family: var(--font-family);
         font-weight: 700;
         font-size: 56px;
@@ -109,10 +109,10 @@ color: #2E2F42;
 }
 .team{
     background-color: #FFFFFF;
-    
+
 }
 
-.section-3{
+.section-three{
     background: #F4F4FD;
 }
 
@@ -121,7 +121,7 @@ color: #2E2F42;
     width: 1440px;
         height: 312px;
 }
-.logo2{
+.logo-2{
     color: #F4F4FD;
 }
 .footer-text{
